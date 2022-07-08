@@ -50,6 +50,7 @@ export default hopeTheme({
   },
 
   plugins: {
+    git: false,
     blog: {
       autoExcerpt: true,
     },
