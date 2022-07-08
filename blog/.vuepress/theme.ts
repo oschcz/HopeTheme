@@ -3,7 +3,9 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  themeColor: { blue: "#2196f3", red: "#f26d6d", green: "#3eaf7c", orange: "#fb9b5f", }, 
+  fullscreen: true,
+  hostname: "hope-theme.vercel.app",
   author: {
     name: "Contabilidad",
     url: "https://puc.com.co",
