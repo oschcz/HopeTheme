@@ -52,6 +52,12 @@ export default hopeTheme({
   },
 
   plugins: {
+    components:["Badge",
+    "CodePen",
+    "FontIcon",
+    "PDF",
+    "StackBlitz",
+    "YouTube"],
     git: false,
     blog: {
       autoExcerpt: true,
